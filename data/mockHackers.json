@@ -1,0 +1,477 @@
+[
+  {
+    "id": "caroline-hernandez",
+    "name": "Caroline Hernandez",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Mobile Developer",
+    "skills": [
+      "Swift",
+      "Firebase",
+      "React Native",
+      "Kotlin"
+    ],
+    "bio": "Think far tough once hair fire network skin team sort phone despite.",
+    "experience": "Represent consider child begin member majority fund candidate environment suggest.",
+    "contact": {
+      "email": "caroline.hernandez@example.com",
+      "github": "https://github.com/carolinehernandez",
+      "linkedin": "https://linkedin.com/in/carolinehernandez"
+    }
+  },
+  {
+    "id": "jill-curry",
+    "name": "Jill Curry",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Product Manager",
+    "skills": [
+      "Scrum",
+      "Stakeholder Management",
+      "Roadmapping",
+      "Agile"
+    ],
+    "bio": "Life open third man over film between could serve water your return computer.",
+    "experience": "People record hundred drop activity dog happy specific lawyer than begin wife.",
+    "contact": {
+      "email": "jill.curry@example.com",
+      "github": "https://github.com/jillcurry",
+      "linkedin": "https://linkedin.com/in/jillcurry"
+    }
+  },
+  {
+    "id": "tyler-perry",
+    "name": "Tyler Perry",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "DevOps Engineer",
+    "skills": [
+      "AWS",
+      "Docker",
+      "CI/CD",
+      "Kubernetes"
+    ],
+    "bio": "Financial task whole could be factor seem less ten different but indicate.",
+    "experience": "Land policy beautiful enter effort involve lose difference involve serious.",
+    "contact": {
+      "email": "tyler.perry@example.com",
+      "github": "https://github.com/tylerperry",
+      "linkedin": "https://linkedin.com/in/tylerperry"
+    }
+  },
+  {
+    "id": "alec-hardy",
+    "name": "Alec Hardy",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Design Systems",
+      "Wireframing",
+      "User Research",
+      "Adobe XD"
+    ],
+    "bio": "Wait central any along loss organization nice lead.",
+    "experience": "Effect pretty public east expect describe man wind through shake.",
+    "contact": {
+      "email": "alec.hardy@example.com",
+      "github": "https://github.com/alechardy",
+      "linkedin": "https://linkedin.com/in/alechardy"
+    }
+  },
+  {
+    "id": "sabrina-martinez",
+    "name": "Sabrina Martinez",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Frontend Developer",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "bio": "Investment early surface save campaign water indicate energy total run again.",
+    "experience": "Stuff pattern fall old discover couple write degree vote because laugh material.",
+    "contact": {
+      "email": "sabrina.martinez@example.com",
+      "github": "https://github.com/sabrinamartinez",
+      "linkedin": "https://linkedin.com/in/sabrinamartinez"
+    }
+  },
+  {
+    "id": "christopher-walker",
+    "name": "Christopher Walker",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Product Manager",
+    "skills": [
+      "Stakeholder Management",
+      "Scrum",
+      "Roadmapping",
+      "Agile"
+    ],
+    "bio": "International so process sort have unit safe that option small night.",
+    "experience": "Prepare win step age fire option rather author modern himself billion education.",
+    "contact": {
+      "email": "christopher.walker@example.com",
+      "github": "https://github.com/christopherwalker",
+      "linkedin": "https://linkedin.com/in/christopherwalker"
+    }
+  },
+  {
+    "id": "mike-velasquez",
+    "name": "Mike Velasquez",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Frontend Developer",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Vue",
+      "Tailwind CSS"
+    ],
+    "bio": "Almost activity suggest production radio onto before seem trip team hour grow control important risk participant.",
+    "experience": "So add sport these foot maintain.",
+    "contact": {
+      "email": "mike.velasquez@example.com",
+      "github": "https://github.com/mikevelasquez",
+      "linkedin": "https://linkedin.com/in/mikevelasquez"
+    }
+  },
+  {
+    "id": "tracy-bender",
+    "name": "Tracy Bender",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Frontend Developer",
+    "skills": [
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "React"
+    ],
+    "bio": "Always again window door down interest hospital bill dream sound single really.",
+    "experience": "Thing discover size buy water call.",
+    "contact": {
+      "email": "tracy.bender@example.com",
+      "github": "https://github.com/tracybender",
+      "linkedin": "https://linkedin.com/in/tracybender"
+    }
+  },
+  {
+    "id": "jennifer-garcia",
+    "name": "Jennifer Garcia",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Backend Developer",
+    "skills": [
+      "Django",
+      "Node.js",
+      "Go",
+      "PostgreSQL"
+    ],
+    "bio": "Term yourself collection cell medical kind scene structure buy.",
+    "experience": "Game event his military me Mr least little fine do system condition forward.",
+    "contact": {
+      "email": "jennifer.garcia@example.com",
+      "github": "https://github.com/jennifergarcia",
+      "linkedin": "https://linkedin.com/in/jennifergarcia"
+    }
+  },
+  {
+    "id": "crystal-hall",
+    "name": "Crystal Hall",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Adobe XD",
+      "Wireframing",
+      "User Research",
+      "Figma"
+    ],
+    "bio": "Two check assume figure leader statement moment building.",
+    "experience": "Design particularly rock democratic beyond design most.",
+    "contact": {
+      "email": "crystal.hall@example.com",
+      "github": "https://github.com/crystalhall",
+      "linkedin": "https://linkedin.com/in/crystalhall"
+    }
+  },
+  {
+    "id": "michael-reyes",
+    "name": "Michael Reyes",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Security Engineer",
+    "skills": [
+      "SIEM",
+      "Firewalls",
+      "Encryption",
+      "OWASP"
+    ],
+    "bio": "Arrive this moment small hear source especially former.",
+    "experience": "Little have sure strong issue those scene.",
+    "contact": {
+      "email": "michael.reyes@example.com",
+      "github": "https://github.com/michaelreyes",
+      "linkedin": "https://linkedin.com/in/michaelreyes"
+    }
+  },
+  {
+    "id": "jennifer-anderson",
+    "name": "Jennifer Anderson",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Frontend Developer",
+    "skills": [
+      "Tailwind CSS",
+      "TypeScript",
+      "Next.js",
+      "Vue"
+    ],
+    "bio": "Since whose shake his week later them dark whole poor improve.",
+    "experience": "Matter be city room left shoulder including better.",
+    "contact": {
+      "email": "jennifer.anderson@example.com",
+      "github": "https://github.com/jenniferanderson",
+      "linkedin": "https://linkedin.com/in/jenniferanderson"
+    }
+  },
+  {
+    "id": "jamie-miller",
+    "name": "Jamie Miller",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Data Scientist",
+    "skills": [
+      "NumPy",
+      "Pandas",
+      "SciPy",
+      "Jupyter"
+    ],
+    "bio": "Himself rule occur half result trip issue economic win check remain pass rich.",
+    "experience": "Should attention know between responsibility clear three until scientist.",
+    "contact": {
+      "email": "jamie.miller@example.com",
+      "github": "https://github.com/jamiemiller",
+      "linkedin": "https://linkedin.com/in/jamiemiller"
+    }
+  },
+  {
+    "id": "russell-hunter",
+    "name": "Russell Hunter",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Security Engineer",
+    "skills": [
+      "SIEM",
+      "Penetration Testing",
+      "OWASP",
+      "Encryption"
+    ],
+    "bio": "Soon would another begin test budget you significant condition process.",
+    "experience": "Poor official card defense hold wonder.",
+    "contact": {
+      "email": "russell.hunter@example.com",
+      "github": "https://github.com/russellhunter",
+      "linkedin": "https://linkedin.com/in/russellhunter"
+    }
+  },
+  {
+    "id": "andrew-olson",
+    "name": "Andrew Olson",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Frontend Developer",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vue"
+    ],
+    "bio": "Tonight parent big off wear crime consumer budget either more cold same treat source.",
+    "experience": "Matter fact state right group training.",
+    "contact": {
+      "email": "andrew.olson@example.com",
+      "github": "https://github.com/andrewolson",
+      "linkedin": "https://linkedin.com/in/andrewolson"
+    }
+  },
+  {
+    "id": "lori-dixon",
+    "name": "Lori Dixon",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Security Engineer",
+    "skills": [
+      "Encryption",
+      "SIEM",
+      "Penetration Testing",
+      "OWASP"
+    ],
+    "bio": "Describe hear company people card hour from daughter.",
+    "experience": "Often activity seat necessary pressure box to wife across special situation fight pattern.",
+    "contact": {
+      "email": "lori.dixon@example.com",
+      "github": "https://github.com/loridixon",
+      "linkedin": "https://linkedin.com/in/loridixon"
+    }
+  },
+  {
+    "id": "kimberly-fleming",
+    "name": "Kimberly Fleming",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Security Engineer",
+    "skills": [
+      "Penetration Testing",
+      "OWASP",
+      "Encryption",
+      "Firewalls"
+    ],
+    "bio": "Home deep population wind bank vote beautiful man try still campaign than term left.",
+    "experience": "Six near message eat strong improve.",
+    "contact": {
+      "email": "kimberly.fleming@example.com",
+      "github": "https://github.com/kimberlyfleming",
+      "linkedin": "https://linkedin.com/in/kimberlyfleming"
+    }
+  },
+  {
+    "id": "melissa-estes",
+    "name": "Melissa Estes",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Backend Developer",
+    "skills": [
+      "PostgreSQL",
+      "Go",
+      "Node.js",
+      "Flask"
+    ],
+    "bio": "Activity follow view worker heavy accept finally open.",
+    "experience": "Training but market against why outside daughter education or group trouble.",
+    "contact": {
+      "email": "melissa.estes@example.com",
+      "github": "https://github.com/melissaestes",
+      "linkedin": "https://linkedin.com/in/melissaestes"
+    }
+  },
+  {
+    "id": "william-murphy",
+    "name": "William Murphy",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Data Scientist",
+    "skills": [
+      "Pandas",
+      "NumPy",
+      "Jupyter",
+      "R"
+    ],
+    "bio": "Left me war him election month thus play prove religious every.",
+    "experience": "Music bring total go tell feel ahead money.",
+    "contact": {
+      "email": "william.murphy@example.com",
+      "github": "https://github.com/williammurphy",
+      "linkedin": "https://linkedin.com/in/williammurphy"
+    }
+  },
+  {
+    "id": "ryan-davis",
+    "name": "Ryan Davis",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "Product Manager",
+    "skills": [
+      "Scrum",
+      "Agile",
+      "Stakeholder Management",
+      "Roadmapping"
+    ],
+    "bio": "List ago surface forget safe show social have husband management read Democrat remain force hour.",
+    "experience": "Fast win respond energy you manager sometimes apply name sport many skill happy full.",
+    "contact": {
+      "email": "ryan.davis@example.com",
+      "github": "https://github.com/ryandavis",
+      "linkedin": "https://linkedin.com/in/ryandavis"
+    }
+  },
+  {
+    "id": "jessica-stone",
+    "name": "Jessica Stone",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "DevOps Engineer",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "AWS"
+    ],
+    "bio": "Parent present use star church decision science partner child film example investment laugh.",
+    "experience": "Believe include forget list trip baby sometimes.",
+    "contact": {
+      "email": "jessica.stone@example.com",
+      "github": "https://github.com/jessicastone",
+      "linkedin": "https://linkedin.com/in/jessicastone"
+    }
+  },
+  {
+    "id": "douglas-lawson",
+    "name": "Douglas Lawson",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Adobe XD",
+      "Wireframing",
+      "Design Systems",
+      "User Research"
+    ],
+    "bio": "Recent free chance he night shake should run large your environmental cause.",
+    "experience": "History adult sure enter PM movie enough can this.",
+    "contact": {
+      "email": "douglas.lawson@example.com",
+      "github": "https://github.com/douglaslawson",
+      "linkedin": "https://linkedin.com/in/douglaslawson"
+    }
+  },
+  {
+    "id": "stephanie-allen",
+    "name": "Stephanie Allen",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Figma",
+      "Design Systems",
+      "Adobe XD",
+      "Wireframing"
+    ],
+    "bio": "Catch likely him tree cost age economic range economic develop money political see week mother.",
+    "experience": "Arm learn plant must brother start low simple structure.",
+    "contact": {
+      "email": "stephanie.allen@example.com",
+      "github": "https://github.com/stephanieallen",
+      "linkedin": "https://linkedin.com/in/stephanieallen"
+    }
+  },
+  {
+    "id": "aaron-smith",
+    "name": "Aaron Smith",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "UI/UX Designer",
+    "skills": [
+      "Adobe XD",
+      "Wireframing",
+      "User Research",
+      "Figma"
+    ],
+    "bio": "See his work attention light within body ability marriage story should answer main first.",
+    "experience": "Both old stay nice kid woman money middle particular PM loss.",
+    "contact": {
+      "email": "aaron.smith@example.com",
+      "github": "https://github.com/aaronsmith",
+      "linkedin": "https://linkedin.com/in/aaronsmith"
+    }
+  },
+  {
+    "id": "kathy-baldwin",
+    "name": "Kathy Baldwin",
+    "avatar": "/placeholder.svg?height=48&width=48",
+    "role": "ML Engineer",
+    "skills": [
+      "PyTorch",
+      "Computer Vision",
+      "NLP",
+      "TensorFlow"
+    ],
+    "bio": "Recognize admit class store understand life put compare name.",
+    "experience": "Word family direction case class nothing upon reflect agent.",
+    "contact": {
+      "email": "kathy.baldwin@example.com",
+      "github": "https://github.com/kathybaldwin",
+      "linkedin": "https://linkedin.com/in/kathybaldwin"
+    }
+  }
+]
