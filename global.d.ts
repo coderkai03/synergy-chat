@@ -7,8 +7,22 @@ interface Hacker {
   bio: string
   experience?: string
   contact: {
-    email?: string
+    discord?: string
     github?: string
     linkedin?: string
   }
-} 
+}
+
+interface UserCredentials {
+  github: string
+  linkedin: string
+  discord: string
+}
+
+interface User {
+  id: string
+  name: string
+  email: string
+  avatar?: string
+  credentials: UserCredentials
+}
